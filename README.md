@@ -2,11 +2,11 @@
 
 Este folder contiene las herramientas para extraer texto de archivos PDF.
 
-El principal archivo es libreta_de_OCR.ipynb, donde está el código ejecutable con sus respectivas instrucciones.
+El principal archivo es libreta_OCR.ipynb, donde está el código ejecutable con sus respectivas instrucciones.
 
 A continuación un resumen de prerequisitos y después instrucciones detalladas.
 
-## Prerequisitos
+## Prerrequisitos
 
 - Instalar Tesseract y añadir "tesseract" como comando en terminal
 - Instalar Python 3, se recomienda una distribución Anaconda o Miniconda
